@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MusicService</string>
+    <string name="play">play</string>
+    <string name="stop">stop</string>
+    <string name="pause">pause</string>
+    <string name="add">add file</string>
+    <string name="prev">previous</string>
+    <string name="next">next</string>
+    <string name="random">random</string>
+</resources>
